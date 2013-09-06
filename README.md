@@ -1,4 +1,4 @@
-# Vagrant Ipython VM for Scientific Computing
+# Vagrant IPython VM for Scientific Computing
 
 This is my first try at assembling a Vagrant VM for Scientific Computing with Python/Ipython.
 
@@ -10,23 +10,21 @@ This is my first try at assembling a Vagrant VM for Scientific Computing with Py
 Initial development was only a few hours.
 I did it because I was curious and it seemed simple.
 
-During my Master's, I became interested about Reproducibility, mainly because the work people did with [Madagascar](http://www.ahay.org/wiki/Main_Page) and lately in [IPython](http://www.ipython.org).
+During my Masters, I became interested about Reproducibility, mainly because the work people did with [Madagascar](http://www.ahay.org/wiki/Main_Page) and lately in [IPython](http://www.ipython.org).
 Then I noticed an ongoing discussion regarding how to conduct reproducible science. 
 And I discovered [Vagrant](http://www.vagrantup.com/). Although I am not a practicing scientist, nor I am involved with reproducibility, I think this might be an interesting approach.
-
 ## What you will need?
 
 You will need to have a working [VirtualBox](https://www.virtualbox.org/wiki/Downloads) installation on your machine.
-[Download](http://downloads.vagrantup.com/tags/v1.3.0) (and install) the installer for your platform.
 
-Follow [these](http://docs.vagrantup.com/v2/installation/index.html) instructions.
+Then, [download the installer](http://downloads.vagrantup.com/tags/v1.3.0) (and install) for your platform.
+Follow [these instructions](http://docs.vagrantup.com/v2/installation/index.html).
 
 ## How to setup?
 Really?
-Just follow [these](http://docs.vagrantup.com/v2/installation/index.html) instructions.
+Just follow [these instructions](http://docs.vagrantup.com/v2/installation/index.html).
 
 In short, just `vagrant up` and it will download the VM image and all needed packages (220+MB) from the Ubuntu repositories. If you have a local cache, you will need to edit the `/etc/apt/sources.list` to reflect that.
-
 Then, just `vagrant ssh`, and create a SSH session with the generated `insecure_private_key`.
 
 ## License?
