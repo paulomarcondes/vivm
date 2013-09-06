@@ -1,4 +1,4 @@
-# Vagrant Ipython Scientific
+# Vagrant Ipython VM for Scientific Computing
 
 This is my first try at assembling a Vagrant VM for Scientific Computing with Python/Ipython.
 
