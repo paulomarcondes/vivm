@@ -14,7 +14,9 @@ During my Master's, I became interested about Reproducibility, mainly because th
 Then I noticed an ongoing discussion regarding how to conduct reproducible science. 
 And I discovered [Vagrant](http://www.vagrantup.com/). Although I am not a practicing scientist, nor I am involved with reproducibility, I think this might be an interesting approach.
 
-## How to install?
+## What you will need?
+
+You will need to have a working [VirtualBox](https://www.virtualbox.org/wiki/Downloads) installation on your machine.
 [Download](http://downloads.vagrantup.com/tags/v1.3.0) (and install) the installer for your platform.
 
 Follow [these](http://docs.vagrantup.com/v2/installation/index.html) instructions.
