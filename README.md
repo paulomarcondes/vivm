@@ -20,6 +20,8 @@ You will need to have a working [VirtualBox](https://www.virtualbox.org/wiki/Dow
 Then, [download the installer](http://downloads.vagrantup.com/tags/v1.3.0) (and install) for your platform.
 Follow [these instructions](http://docs.vagrantup.com/v2/installation/index.html).
 
+Also, you will need a SSH client. I suggest you use [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/).
+
 ## How to setup?
 Really?
 Just follow [these instructions](http://docs.vagrantup.com/v2/installation/index.html).
